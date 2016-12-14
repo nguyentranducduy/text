@@ -1,0 +1,84 @@
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.config
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.pdb
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.xml
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmLogin.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmwelcome.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.Resources.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.vbproj.GenerateResource.Cache
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.xml
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.pdb
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmQLUser.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmMain.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.FrmQuanlyGiangVien.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmthemmoigv.resources
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV.mdf
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV_log.ldf
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.manifest
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.application
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe.manifest
+E:\bai tap\Scrum\PM\Project\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.application
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.config
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.xml
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.pdb
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV.mdf
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV_log.ldf
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.manifest
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.application
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.pdb
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.xml
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmLogin.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmQLUser.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmwelcome.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmMain.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.Resources.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.FrmQuanlyGiangVien.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmthemmoigv.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.vbproj.GenerateResource.Cache
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe.manifest
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\khapmps02541_PT10102_Agile_ASM\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.application
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.config
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.xml
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.pdb
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV.mdf
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV_log.ldf
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.manifest
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.application
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.pdb
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.xml
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmLogin.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmQLUser.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmwelcome.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmMain.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.Resources.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.FrmQuanlyGiangVien.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmthemmoigv.resources
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.vbproj.GenerateResource.Cache
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe.manifest
+G:\FPT\hl\quaan_ly_du_an_voi_phan_mem_Agile\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.application
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.config
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.xml
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.pdb
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV.mdf
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\DatabaseGV_log.ldf
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe.manifest
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.application
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.exe
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.pdb
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\bin\Debug\QLGiangVien.xml
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmLogin.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmQLUser.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmwelcome.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmMain.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.Resources.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.FrmQuanlyGiangVien.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.frmthemmoigv.resources
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.vbproj.GenerateResource.Cache
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.exe.manifest
+C:\Users\Duy Nguyen\Downloads\QLGiangVien\QLGiangVien\QLGiangVien\obj\Debug\QLGiangVien.application
